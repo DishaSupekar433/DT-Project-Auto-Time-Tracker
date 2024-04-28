@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Digital Balance</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="C:\\Users\\DISHA\\OneDrive\\Desktop\\DT\\index.html" style="color: #f5f5f5">Home</a>
+                    </li>
+                    <li><a href="#" style="color: #f5f5f5">Settings</a></li>
+                    <li><a href="#" style="color: #f5f5f5">Help</a></li>
+                    <li><a href="C:\\Users\\DISHA\\OneDrive\\Desktop\\DT\\login.html" style="color: #f5f5f5">Logout</a>
+                    </li>
+                </ul>
+            </nav>
+            <h1>Digital Balance &#9719;</h1>
+            <div class="today-limit">
+                <p>Today's Limit: 2 hours</p>
+                <button type="button">Edit Limit</button>
+            </div>
+        </header>
+        <main>
+            <section id="summary">
+                <h2>Child's Last 7 Day Summary</h2>
+                <div class="summary-wrapper">
+                    <ul class="summary-details">
+                        <li>
+                            <br><br>
+                            <span class="detail-label">Total Time Spent:</span>
+                            <span class="detail-value">15 hours</span>
+                        </li>
+                        <li>
+                            <span class="detail-label">Most Used App:</span>
+                            <span class="detail-value">YouTube (5 hours)</span>
+                        </li>
+                        <li>
+                            <span class="detail-label">Most Used Device:</span>
+                            <span class="detail-value">Smartphone (90%)</span>
+                        </li>
+                        <li>
+                            <span class="detail-label">Average Daily Usage:</span>
+                            <span class="detail-value">2 hours 14 mins</span>
+                        </li>
+                        <li>
+                            <span class="detail-label">Apps Used (Top 3):</span>
+                            <span class="detail-value">
+                                <span class="app-list">
+                                    - YouTube (5 hours)<br>
+                                    - Game X (3 hours)<br>
+                                    - Educational App Y (2 hours)
+                                </span>
+                            </span>
+                        </li>
+                        <a href="report.html"><button class="full-report-btn">View Full Report</button></a>
+                    </ul>
+                    <img src="graph.png" alt="Time Spent Chart" class="time-chart">
+                </div>
+            </section>
+
+
+            <section id="actions">
+                <h2>Key Actions</h2>
+                <div class="action-content">
+                    <div class="action-buttons">
+                        <button class="action-btn start" onclick="redirectToTrack()">Live Tracking</button>
+                        <button class="action-btn add-time">Add Time</button>
+                        <button class="action-btn reward" onclick="redirectToRewards()"
+                            href="rewards.html">Rewards</button>
+                        <button class="action-btn lock-freeze">Lock/Freeze Device</button>
+                        <button class="action-btn block" onclick="redirectToBlock()">Block Apps & Sites</button>
+                        <button class="action-btn graph" onclick="redirectToGraph()">Show Graph</button>
+                    </div>
+                    <img src="kids.jpeg" alt="Kids" class="kids-image">
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2024 Digital Balance. All rights reserved.</p>
+        </footer>
+        <script>
+            var editLimitButton = document.querySelector('button[type="button"]');
+            var addTimeButton = document.querySelector('.action-btn.add-time');
+            editLimitButton.addEventListener('click', function () {
+                var newLimit = prompt('Enter the new limit (in hours):');
+
+                if (newLimit !== null && !isNaN(newLimit) && newLimit !== '') {
+                    document.querySelector('.today-limit p').textContent = "Today's Limit: " + newLimit + " hours";
+                } else {
+                    alert('Invalid input. Please enter a valid number.');
+                }
+            });
+            addTimeButton.addEventListener('click', function () {
+                editLimitButton.click();
+            });
+
+            function redirectToRewards() {
+                window.location.href = 'rewards.html';
+            }
+
+            function redirectToGraph() {
+                //window.location.href = 'http://127.0.0.1:5000/';
+                window.scrollTo(0, 0); // Scroll to the top of the page
+            }
+
+            function redirectToBlock() {
+                window.location.href = 'block.html';
+            }
+
+            function redirectToTrack() {
+                window.location.href = 'http://127.0.0.1:8000/track';
+            }
+
+            // WebSocket connection for live tracking updates
+            var socket = new WebSocket('ws://127.0.0.1:8000/live_tracking');
+
+            socket.onmessage = function (event) {
+                // Update the page with live tracking information
+                var liveTrackingInfo = event.data;
+                console.log('Live Tracking Info:', liveTrackingInfo);
+                // Update your HTML elements with liveTrackingInfo
+                document.getElementById('output').innerHTML += liveTrackingInfo + '<br>';
+                document.getElementById('output').scrollTop = document.getElementById('output').scrollHeight;
+            };
+
+        </script>
+    </body>
+
+</html>

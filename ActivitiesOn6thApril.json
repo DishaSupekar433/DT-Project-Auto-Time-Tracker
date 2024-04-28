@@ -1,0 +1,1307 @@
+{
+    "activities": [
+        {
+            "name": "autotimer.py - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:43:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2024-04-05 00:43:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:07:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-06 03:07:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:07:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2024-04-06 03:07:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:11:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2024-04-06 03:11:02"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:43:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2024-04-05 00:43:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 00:45:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:46:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-05 00:46:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:02:57",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 01:00:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:04:16",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 13,
+                    "start_time": "2024-04-05 01:03:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2024-04-05 01:24:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 02:12:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2024-04-05 02:12:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:09:41"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:43:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2024-04-05 00:43:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:44:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2024-04-05 00:43:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2024-04-05 00:44:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-05 00:45:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-05 00:45:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:00:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 01:00:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:14",
+                    "hours": 0,
+                    "minutes": 19,
+                    "seconds": 57,
+                    "start_time": "2024-04-05 01:04:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-05 01:24:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-05 01:24:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2024-04-05 01:24:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:27:05",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 9,
+                    "start_time": "2024-04-05 01:24:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:29:45",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 36,
+                    "start_time": "2024-04-05 01:27:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:29:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-05 01:29:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:48:20",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 51,
+                    "start_time": "2024-04-05 01:46:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:49:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2024-04-05 01:48:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:49:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2024-04-05 01:49:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:57:39",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 48,
+                    "start_time": "2024-04-05 01:50:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 02:09:28",
+                    "hours": 0,
+                    "minutes": 11,
+                    "seconds": 18,
+                    "start_time": "2024-04-05 01:58:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 02:12:02",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 31,
+                    "start_time": "2024-04-05 02:09:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 02:12:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2024-04-05 02:12:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 02:12:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-05 02:12:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:57:55",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 36,
+                    "start_time": "2024-04-05 23:54:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:07:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:07:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:12:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-06 03:12:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-06 03:16:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-06 03:16:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-06 03:17:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:22:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2024-04-06 03:22:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:22:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2024-04-06 03:22:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:27:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2024-04-06 03:27:37"
+                }
+            ]
+        },
+        {
+            "name": "https:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:43:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 00:43:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:44:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 00:44:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 00:45:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:46:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 55,
+                    "start_time": "2024-04-05 00:45:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:27:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-05 01:27:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 02:12:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 02:12:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:48:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2024-04-05 23:48:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:54:18",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 37,
+                    "start_time": "2024-04-05 23:48:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:58:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 23:58:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:07:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-06 03:07:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:13:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 53,
+                    "start_time": "2024-04-06 03:12:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:14:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:14:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:15:18",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 10,
+                    "start_time": "2024-04-06 03:14:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:20:36",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 2,
+                    "start_time": "2024-04-06 03:19:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:22:22",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 31,
+                    "start_time": "2024-04-06 03:20:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:22:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:22:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:27:30",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 36,
+                    "start_time": "2024-04-06 03:22:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:27:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:27:45"
+                }
+            ]
+        },
+        {
+            "name": "Select Command Prompt",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 00:45:08"
+                }
+            ]
+        },
+        {
+            "name": "Add a comment...",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:45:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2024-04-05 00:45:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:46:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-05 00:46:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:48:59",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 17,
+                    "start_time": "2024-04-05 00:46:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:00:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 01:00:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-05 01:24:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 01:24:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:48:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 23:48:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:07:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:07:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:14:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2024-04-06 03:13:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:14:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:14:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:20:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2024-04-06 03:20:36"
+                }
+            ]
+        },
+        {
+            "name": "Search",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 00:49:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 00:48:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:29:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 01:29:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:48:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 01:48:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:58:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-05 23:58:48"
+                }
+            ]
+        },
+        {
+            "name": "WhatsApp",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:00:51",
+                    "hours": 0,
+                    "minutes": 11,
+                    "seconds": 50,
+                    "start_time": "2024-04-05 00:49:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:48:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-05 01:48:22"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:03:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-05 01:02:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-06 03:09:11"
+                }
+            ]
+        },
+        {
+            "name": "Windows Default Lock Screen",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:24:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 01:24:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:58:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2024-04-05 23:57:55"
+                }
+            ]
+        },
+        {
+            "name": "about:blank",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:29:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 01:29:45"
+                }
+            ]
+        },
+        {
+            "name": "Start",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:29:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 01:29:47"
+                }
+            ]
+        },
+        {
+            "name": "Spotify",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:29:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-05 01:29:51"
+                }
+            ]
+        },
+        {
+            "name": "Pr12",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:46:28",
+                    "hours": 0,
+                    "minutes": 15,
+                    "seconds": 37,
+                    "start_time": "2024-04-05 01:30:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:49:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2024-04-05 01:49:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 01:50:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 58,
+                    "start_time": "2024-04-05 01:49:53"
+                }
+            ]
+        },
+        {
+            "name": "Release Notes: 1.88.0 - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:48:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 23:48:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:58:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-05 23:58:12"
+                }
+            ]
+        },
+        {
+            "name": "ActivitiesOn5thApril.json - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:58:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2024-04-05 23:58:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:08:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-06 03:08:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-06 03:09:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:09:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:27:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-06 03:27:31"
+                }
+            ]
+        },
+        {
+            "name": "Command Prompt",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-05 23:59:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2024-04-05 23:58:51"
+                }
+            ]
+        },
+        {
+            "name": "settings.json - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:08:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2024-04-06 03:07:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:11:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-06 03:11:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:11:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2024-04-06 03:11:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:19:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "start_time": "2024-04-06 03:18:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:19:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2024-04-06 03:19:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:27:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:27:30"
+                }
+            ]
+        },
+        {
+            "name": "activity.cpython-311.pyc - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:08:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2024-04-06 03:08:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:11:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-06 03:11:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:15:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:15:27"
+                }
+            ]
+        },
+        {
+            "name": "bg.jpg - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:08:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-06 03:08:27"
+                }
+            ]
+        },
+        {
+            "name": "register.html - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:08:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2024-04-06 03:08:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-06 03:16:39"
+                }
+            ]
+        },
+        {
+            "name": "linux.py - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2024-04-06 03:08:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2024-04-06 03:09:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:10:52",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 3,
+                    "start_time": "2024-04-06 03:09:49"
+                }
+            ]
+        },
+        {
+            "name": "README.md - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:09:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2024-04-06 03:09:02"
+                }
+            ]
+        },
+        {
+            "name": "activity.py - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:11:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-06 03:10:52"
+                }
+            ]
+        },
+        {
+            "name": "activate_this.py - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:11:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2024-04-06 03:11:40"
+                }
+            ]
+        },
+        {
+            "name": "activate.fish - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:12:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2024-04-06 03:11:58"
+                }
+            ]
+        },
+        {
+            "name": "activate.csh - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:12:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:12:10"
+                }
+            ]
+        },
+        {
+            "name": "activate.ps1 - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:12:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2024-04-06 03:12:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:15:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2024-04-06 03:15:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:15:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-06 03:15:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:18:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2024-04-06 03:18:17"
+                }
+            ]
+        },
+        {
+            "name": "login.html - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2024-04-06 03:15:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2024-04-06 03:16:31"
+                }
+            ]
+        },
+        {
+            "name": "file:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:16:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-06 03:16:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2024-04-06 03:16:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:16:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-06 03:17:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 40,
+                    "start_time": "2024-04-06 03:17:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:19:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:19:29"
+                }
+            ]
+        },
+        {
+            "name": "report.html - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:16:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:18:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:18:16"
+                }
+            ]
+        },
+        {
+            "name": "DB.html - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2024-04-06 03:16:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:16:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-06 03:17:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:17:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:18:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2024-04-06 03:17:59"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf DB.html - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:16:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-06 03:16:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:17:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-06 03:17:08"
+                }
+            ]
+        },
+        {
+            "name": "python2.7 - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:19:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:19:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:19:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-06 03:19:08"
+                }
+            ]
+        },
+        {
+            "name": "python - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-06 03:19:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-06 03:19:04"
+                }
+            ]
+        }
+    ]
+}

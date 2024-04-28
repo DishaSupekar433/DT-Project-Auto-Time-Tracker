@@ -1,0 +1,574 @@
+                {
+                    "activities": [
+                        {
+                            "name": "autotimer.py - DT - Visual Studio Code",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:43:29",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 14,
+                                    "start_time": "2024-04-05 00:43:15"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "activities.json - DT - Visual Studio Code",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:43:45",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 15,
+                                    "start_time": "2024-04-05 00:43:29"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:04",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 00:45:03"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:46:42",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 10,
+                                    "start_time": "2024-04-05 00:46:31"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:02:57",
+                                    "hours": 0,
+                                    "minutes": 2,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 01:00:56"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:04:16",
+                                    "hours": 0,
+                                    "minutes": 1,
+                                    "seconds": 13,
+                                    "start_time": "2024-04-05 01:03:03"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:33",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 14,
+                                    "start_time": "2024-04-05 01:24:19"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:12:32",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 30,
+                                    "start_time": "2024-04-05 02:12:02"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:43:55",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 9,
+                                    "start_time": "2024-04-05 00:43:45"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:44:40",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 44,
+                                    "start_time": "2024-04-05 00:43:56"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:03",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 22,
+                                    "start_time": "2024-04-05 00:44:41"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:08",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 4,
+                                    "start_time": "2024-04-05 00:45:04"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:14",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 3,
+                                    "start_time": "2024-04-05 00:45:10"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:00:56",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 01:00:54"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:14",
+                                    "hours": 0,
+                                    "minutes": 19,
+                                    "seconds": 57,
+                                    "start_time": "2024-04-05 01:04:16"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:19",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 4,
+                                    "start_time": "2024-04-05 01:24:15"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:38",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 4,
+                                    "start_time": "2024-04-05 01:24:33"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:52",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 7,
+                                    "start_time": "2024-04-05 01:24:44"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:27:05",
+                                    "hours": 0,
+                                    "minutes": 2,
+                                    "seconds": 9,
+                                    "start_time": "2024-04-05 01:24:55"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:29:45",
+                                    "hours": 0,
+                                    "minutes": 2,
+                                    "seconds": 36,
+                                    "start_time": "2024-04-05 01:27:08"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:29:51",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 3,
+                                    "start_time": "2024-04-05 01:29:48"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:48:20",
+                                    "hours": 0,
+                                    "minutes": 1,
+                                    "seconds": 51,
+                                    "start_time": "2024-04-05 01:46:28"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:49:03",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 35,
+                                    "start_time": "2024-04-05 01:48:27"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:49:53",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 23,
+                                    "start_time": "2024-04-05 01:49:29"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:57:39",
+                                    "hours": 0,
+                                    "minutes": 6,
+                                    "seconds": 48,
+                                    "start_time": "2024-04-05 01:50:51"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:09:28",
+                                    "hours": 0,
+                                    "minutes": 11,
+                                    "seconds": 18,
+                                    "start_time": "2024-04-05 01:58:09"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:12:02",
+                                    "hours": 0,
+                                    "minutes": 2,
+                                    "seconds": 31,
+                                    "start_time": "2024-04-05 02:09:30"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:12:49",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 16,
+                                    "start_time": "2024-04-05 02:12:32"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:12:55",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 4,
+                                    "start_time": "2024-04-05 02:12:50"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "https:",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:43:56",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 00:43:55"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:44:41",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 00:44:40"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:16",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 00:45:14"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:46:28",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 55,
+                                    "start_time": "2024-04-05 00:45:33"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:27:08",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 3,
+                                    "start_time": "2024-04-05 01:27:05"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:12:50",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 02:12:49"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Select Command Prompt",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:10",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 00:45:08"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Add a comment...",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:45:33",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 17,
+                                    "start_time": "2024-04-05 00:45:16"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:46:31",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 3,
+                                    "start_time": "2024-04-05 00:46:28"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:48:59",
+                                    "hours": 0,
+                                    "minutes": 2,
+                                    "seconds": 17,
+                                    "start_time": "2024-04-05 00:46:42"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:00:54",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 01:00:51"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:44",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 6,
+                                    "start_time": "2024-04-05 01:24:38"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:55",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 01:24:52"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Search",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 00:49:00",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 00:48:59"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:29:47",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 01:29:46"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:48:22",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 01:48:20"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "WhatsApp",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:00:51",
+                                    "hours": 0,
+                                    "minutes": 11,
+                                    "seconds": 50,
+                                    "start_time": "2024-04-05 00:49:00"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:48:27",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 5,
+                                    "start_time": "2024-04-05 01:48:22"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Visual Studio Code",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:03:03",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 6,
+                                    "start_time": "2024-04-05 01:02:57"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Windows Default Lock Screen",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:24:15",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 01:24:14"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "about:blank",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:29:46",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 01:29:45"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Start",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:29:48",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 01:29:47"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spotify",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:29:52",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 1,
+                                    "start_time": "2024-04-05 01:29:51"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spotify Free",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:30:49",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 57,
+                                    "start_time": "2024-04-05 01:29:52"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:57:58",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 19,
+                                    "start_time": "2024-04-05 01:57:39"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taylor Swift - Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:30:51",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 01:30:49"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pr12",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:46:28",
+                                    "hours": 0,
+                                    "minutes": 15,
+                                    "seconds": 37,
+                                    "start_time": "2024-04-05 01:30:51"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:49:29",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 26,
+                                    "start_time": "2024-04-05 01:49:03"
+                                },
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:50:51",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 58,
+                                    "start_time": "2024-04-05 01:49:53"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taylor Swift - \"Slut!\" (Taylor's Version) (From The Vault)",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 01:58:09",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 11,
+                                    "start_time": "2024-04-05 01:57:58"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taylor Swift - Is It Over Now? (Taylor's Version) (From The Vault)",
+                            "time_entries": [
+                                {
+                                    "days": 0,
+                                    "end_time": "2024-04-05 02:09:30",
+                                    "hours": 0,
+                                    "minutes": 0,
+                                    "seconds": 2,
+                                    "start_time": "2024-04-05 02:09:28"
+                                }
+                            ]
+                        }
+                    ]
+                }

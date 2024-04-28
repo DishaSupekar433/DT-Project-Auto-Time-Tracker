@@ -1,0 +1,717 @@
+{
+    "activities": [
+        {
+            "name": "autotimer.py - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:45:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2024-04-07 12:44:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:45:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-07 12:45:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:48:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 55,
+                    "start_time": "2024-04-07 12:48:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:50:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2024-04-07 12:50:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:50:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2024-04-07 12:50:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2024-04-07 12:51:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-07 12:51:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-07 12:51:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-07 12:51:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-07 12:51:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2024-04-07 12:52:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:53:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2024-04-07 12:53:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:55:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2024-04-07 12:55:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:56:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-07 12:56:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-07 12:57:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-07 12:57:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:58:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2024-04-07 12:57:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:59:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 40,
+                    "start_time": "2024-04-07 12:58:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2024-04-07 13:00:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-07 13:00:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2024-04-07 13:00:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:01:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2024-04-07 13:00:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:01:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2024-04-07 13:01:09"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:45:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:45:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2024-04-07 12:45:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:46:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:47:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 43,
+                    "start_time": "2024-04-07 12:46:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:47:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2024-04-07 12:47:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:50:09",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 12,
+                    "start_time": "2024-04-07 12:48:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:50:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2024-04-07 12:50:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2024-04-07 12:50:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-07 12:51:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:51:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:51:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:52:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:52:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-07 12:52:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:55:02",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 14,
+                    "start_time": "2024-04-07 12:53:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:56:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 51,
+                    "start_time": "2024-04-07 12:55:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2024-04-07 12:56:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:57:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:58:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2024-04-07 12:58:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "start_time": "2024-04-07 12:59:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-07 13:00:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-07 13:00:45"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:45:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2024-04-07 12:45:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:46:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-07 12:46:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-07 12:46:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:46:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:48:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2024-04-07 12:47:48"
+                }
+            ]
+        },
+        {
+            "name": "file:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:46:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:46:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:46:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2024-04-07 12:52:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-07 12:52:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2024-04-07 12:52:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:52:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:53:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2024-04-07 12:52:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2024-04-07 12:57:36"
+                }
+            ]
+        },
+        {
+            "name": "https:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:46:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:53:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:53:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:57:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 13:00:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:01:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2024-04-07 13:01:04"
+                }
+            ]
+        },
+        {
+            "name": "Add a comment...",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:46:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:46:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:46:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2024-04-07 12:51:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:52:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:57:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:58:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 12:58:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:01:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 13:01:08"
+                }
+            ]
+        },
+        {
+            "name": "Task View",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:47:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:47:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:51:26"
+                }
+            ]
+        },
+        {
+            "name": "graph.png \u200e- Photos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:51:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:51:33"
+                }
+            ]
+        },
+        {
+            "name": "C:\\Users\\DISHA\\OneDrive\\Desktop\\DT",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:51:59"
+                }
+            ]
+        },
+        {
+            "name": "http:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:52:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 12:52:25"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf autotimer.py - DT - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 12:57:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2024-04-07 12:57:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2024-04-07 13:00:30"
+                }
+            ]
+        },
+        {
+            "name": "www.coursera.org",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 13:00:49"
+                }
+            ]
+        },
+        {
+            "name": "www.google.co.uk",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2024-04-07 13:00:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2024-04-07 13:00:51"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Block Sites</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f8f8f8;
+            }
+
+            .container {
+                max-width: 600px;
+                margin: 20px auto;
+                padding: 20px;
+                background-color: #fff;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+
+            h1 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            .input-group {
+                margin-bottom: 20px;
+            }
+
+            .input-group label {
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            .input-group input {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+            .input-group button {
+                padding: 10px 20px;
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            .input-group button:hover {
+                background-color: #0056b3;
+            }
+
+            #blocked-sites {
+                margin-top: 20px;
+            }
+
+            #blocked-sites li {
+                margin-bottom: 10px;
+            }
+
+            #blocked-sites li button {
+                padding: 5px 10px;
+                background-color: #dc3545;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            #blocked-sites li button:hover {
+                background-color: #bd2130;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Block Sites</h1>
+            <div class="input-group">
+                <label for="site-url">Enter site URL:</label>
+                <input type="text" id="site-url" placeholder="e.g., example.com">
+                <button onclick="blockSite()">Block</button>
+            </div>
+            <ul id="blocked-sites">
+                <!-- Blocked sites will be listed here dynamically -->
+            </ul>
+        </div>
+
+        <script>
+            function blockSite() {
+                var siteUrlInput = document.getElementById('site-url');
+                var siteUrl = siteUrlInput.value.trim();
+
+                if (siteUrl !== '') {
+                    // Add the blocked site to the list
+                    var blockedSitesList = document.getElementById('blocked-sites');
+                    var listItem = document.createElement('li');
+                    listItem.innerHTML = siteUrl + ' <button onclick="unblockSite(this)">Unblock</button>';
+                    blockedSitesList.appendChild(listItem);
+
+                    // Clear the input field
+                    siteUrlInput.value = '';
+                } else {
+                    alert('Please enter a valid site URL.');
+                }
+            }
+
+            function unblockSite(button) {
+                // Remove the blocked site from the list
+                var listItem = button.parentElement;
+                listItem.remove();
+            }
+        </script>
+    </body>
+
+</html>
